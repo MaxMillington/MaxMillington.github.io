@@ -58,11 +58,11 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #ECF0F1;
 }
 
 hr.star-light:after {
-    color: #fff;
+    color: #ECF0F1;
     background-color: #27AE60;
 }
 
@@ -81,7 +81,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #ECF0F1;
     background: #27AE60;
 }
 
@@ -266,9 +266,9 @@ section.success a.active {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #ECF0F1;
     font-size: 20px;
-    color: #fff;
+    color: #ECF0F1;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -277,16 +277,16 @@ section.success a.active {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
+    border: solid 2px #ECF0F1;
     color: #27AE60;
-    background: #fff;
+    background: #ECF0F1;
 }
 
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #ECF0F1;
 }
 
 .floating-label-form-group input,
@@ -322,7 +322,7 @@ section.success a.active {
 
 .floating-label-form-group::not(:first-child) {
     padding-left: 14px;
-    border-left: 1px solid #eee;
+    border-left: 1px solid #ECF0F1;
 }
 
 .floating-label-form-group-with-value label {
@@ -335,11 +335,11 @@ section.success a.active {
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #ECF0F1;
 }
 
 footer {
-    color: #fff;
+    color: #ECF0F1;
 }
 
 footer h3 {
@@ -364,7 +364,7 @@ footer .footer-below {
     display: inline-block;
     width: 50px;
     height: 50px;
-    border: 2px solid #fff;
+    border: 2px solid #ECF0F1;
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
@@ -487,11 +487,11 @@ footer .footer-below {
     position: absolute;
     top: 25%;
     left: 25%;
-    opacity: 0.95;
+    opacity: 0.92;
     width: 50%;
     height: 50%;
     padding: 16px;
-    background-color: mintcream;
+    background-color: #ECF0F1;
     z-index:1002;
     color: black;
     border-radius: 5px 5px 5px 5px;
